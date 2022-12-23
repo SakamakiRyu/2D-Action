@@ -64,3 +64,6 @@ UserSettings/
 ProjectSettings/
 Packages/manifest.json
 Packages/packages-lock.json
+Assets/Resources.meta
+Assets/Resources/DOTweenSettings.asset
+Assets/Resources/DOTweenSettings.asset.meta
